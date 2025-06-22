@@ -4,9 +4,9 @@
 This is a simple group-based Java calculator project. The program takes two integers (`a = 10` and `b = 5`) and performs basic arithmetic operations being: addition, subtraction, and multiplication — with each operation coded by a different group member.
 
 ## Team Members
-- **Kate A** – Created `Add.java`
-- **Teammate 1 Name** – Created `Subtract.java`
-- **Teammate 2 Name** – Created `Multiplication.java`
+- **Kate Abunassar** – Created `Add.java`
+- **Soliana Getachew** – Created `Subtract.java`
+- **Muhtada Fadlalla & Ria Guddanti** – Created `Multiplication.java`
 - **Shared** – `SimpleCalculator.java` was used to run and test all methods
 
 ## File Structure
